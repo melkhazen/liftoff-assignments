@@ -7,12 +7,39 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+Secret Restaurant review app: Owner submits tickets for reviews, reviewer picks up a ticket and reviews restaurant. They submit the review and (stretch) an automated ticked is submitted to the owner for problems.
+ 
+What I will Learn:
+
+Trello Board:
+
+https://trello.com/b/cSgoojaL/matthews-project-board
+
 ### Features
-Include Features here
+
+Features:
+Log-in
+Review
+Ticket
+Map integration
+
 ### Technologies
-Include Technologies here
+
+Technology:
+Java
+JavaScript
+Angular
+Bootstrap
+Springboot
+MySQL
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+login authentication and authorisation 
+
 ### Project Tracker
-Link to your Trello board here
+
+https://trello.com/b/cSgoojaL/matthews-project-board
+
+https://github.com/melkhazen/miguel-group-a
